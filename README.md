@@ -18,8 +18,6 @@
 
 #### Window Navigation
 
-- `ctrl +  F8` --> Toggle current line's breakpoint
-- `ctrl + shift + F8` --> Open the Breakpoints window
 - `alt + 1` --> Open/focus on Project window *(`esc` to unfocus)*
 - `alt + 3` --> Open/focus on Find window *(`esc` to unfocus)* 
 - `alt + 4` --> Open/focus on Run window *(`esc` to unfocus)* 
@@ -33,4 +31,6 @@
 #### Running / Debugging
 
 - `ctrl + F5` --> Re-run current run config (either debugs or runs, depending on window focus)
+- `ctrl +  F8` --> Toggle current line's breakpoint
+- `ctrl + shift + F8` --> Open the Breakpoints window
 - hold `alt` and click --> evaluates code in-line, useful for if statements and streams (and other)
