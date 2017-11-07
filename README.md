@@ -12,9 +12,9 @@
 - `ctrl + shift + alt + l` --> Show refactor file dialog then refactor. Lets you select 'optimize imports' and 'rearrange code'
 - `ctrl + [` --> Jump to beginning of current code block
 - `ctrl + ]` --> Jump to end of current code block
-- `ctrl + alt + up` and `ctrl + alt + down` --> Shift current line of code up or down with respect to code blocks _(will automatically
+- `ctrl + shift + up` and `ctrl + shift + down` --> Shift current line of code up or down with respect to code blocks _(will automatically
   correct indentation, and does not allow moving out of a function)_
-- `ctrl + shift + up` and `ctrl + shift + down` --> Shift current line up or down ignoring code block behavour
+- `alt + shift + up` and `alt + shift + down` --> Shift current line up or down ignoring code block behavour
 
 #### Window Navigation
 
