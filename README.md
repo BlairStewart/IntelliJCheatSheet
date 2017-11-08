@@ -8,6 +8,7 @@
 - `ctrl + alt + p` --> Extract selection to parameter
 - `ctrl + alt + f` --> Extract selection to feild
 - `ctrl + alt + m` --> Extract selection to method
+- `ctrl + alt + n` --> Inline the selected method or variable
 - `ctrl + alt + l` --> Refactor / reorganize file
 - `ctrl + shift + alt + l` --> Show refactor file dialog then refactor. Lets you select 'optimize imports' and 'rearrange code'
 - `ctrl + [` --> Jump to beginning of current code block
